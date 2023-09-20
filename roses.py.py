@@ -75,10 +75,4 @@ tur.left(90)
 tur.circle(80, 90)
 tur.end_fill()
 tur.left(135)
-tur.fd(60)
-tur.left(180)
-tur.fd(60)
-tur.right(90)
-tur.circle(200, 60)
-
-done()
+tur
